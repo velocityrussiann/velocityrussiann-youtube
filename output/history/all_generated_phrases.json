@@ -299,7 +299,37 @@
       "russian": "Ваш голос, теперь найден.",
       "category": "Happiness",
       "generated_at": "2026-04-06T21:00:16.670602"
+    },
+    {
+      "english": "Learn one vowel, celebrate success.",
+      "russian": "Учи гласную, празднуй успех.",
+      "category": "Patience",
+      "generated_at": "2026-04-06T23:54:49.105159"
+    },
+    {
+      "english": "New verb heard, good job.",
+      "russian": "Новый глагол услышан, молодец.",
+      "category": "Patience",
+      "generated_at": "2026-04-06T23:54:49.105167"
+    },
+    {
+      "english": "One sentence built, keep going.",
+      "russian": "",
+      "category": "Patience",
+      "generated_at": "2026-04-06T23:54:49.105169"
+    },
+    {
+      "english": "Ten words clear, progress starts.",
+      "russian": "Десять слов ясно, прогресс начался.",
+      "category": "Patience",
+      "generated_at": "2026-04-06T23:54:49.105172"
+    },
+    {
+      "english": "Pronunciation right, little victory.",
+      "russian": "Произношение верно, малая победа.",
+      "category": "Patience",
+      "generated_at": "2026-04-06T23:54:49.105174"
     }
   ],
-  "last_updated": "2026-04-06T21:00:16.670604"
+  "last_updated": "2026-04-06T23:54:49.105175"
 }

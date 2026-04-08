@@ -539,7 +539,37 @@
       "russian": "Твоё дыхание, якорь тебе.",
       "category": "Happiness",
       "generated_at": "2026-04-08T19:50:33.460516"
+    },
+    {
+      "english": "Learn a little, feel joy tonight.",
+      "russian": "Учись немного, почувствуй радость.",
+      "category": "Patience",
+      "generated_at": "2026-04-08T22:09:46.229718"
+    },
+    {
+      "english": "One new sound, progress is here.",
+      "russian": "Первый звук, прогресс уже здесь.",
+      "category": "Patience",
+      "generated_at": "2026-04-08T22:09:46.229730"
+    },
+    {
+      "english": "Hear a word, understand more.",
+      "russian": "Слышишь слово, понимаешь больше.",
+      "category": "Patience",
+      "generated_at": "2026-04-08T22:09:46.229731"
+    },
+    {
+      "english": "Say again, feel the flow.",
+      "russian": "Скажи снова, почувствуй поток.",
+      "category": "Patience",
+      "generated_at": "2026-04-08T22:09:46.229733"
+    },
+    {
+      "english": "A moment's work, knowledge grows.",
+      "russian": "Минута труда, знание растёт.",
+      "category": "Patience",
+      "generated_at": "2026-04-08T22:09:46.229734"
     }
   ],
-  "last_updated": "2026-04-08T19:50:33.460518"
+  "last_updated": "2026-04-08T22:09:46.229736"
 }

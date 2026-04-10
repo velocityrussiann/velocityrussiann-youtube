@@ -779,7 +779,37 @@
       "russian": "Насладись эхом собственной доброты.",
       "category": "Wisdom",
       "generated_at": "2026-04-10T07:07:57.001429"
+    },
+    {
+      "english": "New sound, inner strength.",
+      "russian": "Новый звук, внутренняя сила.",
+      "category": "Courage",
+      "generated_at": "2026-04-10T15:38:19.819016"
+    },
+    {
+      "english": "Speak a bit brighter now.",
+      "russian": "Говорите уж посмелее.",
+      "category": "Courage",
+      "generated_at": "2026-04-10T15:38:19.819031"
+    },
+    {
+      "english": "Your voice, can echo.",
+      "russian": "Ваш голос, может эхом.",
+      "category": "Courage",
+      "generated_at": "2026-04-10T15:38:19.819032"
+    },
+    {
+      "english": "Explore unknown word, joy.",
+      "russian": "Исследуй слово, радость.",
+      "category": "Courage",
+      "generated_at": "2026-04-10T15:38:19.819033"
+    },
+    {
+      "english": "Listen inward, grow bolder.",
+      "russian": "Слушай в себя, смелей.",
+      "category": "Courage",
+      "generated_at": "2026-04-10T15:38:19.819034"
     }
   ],
-  "last_updated": "2026-04-10T07:07:57.001431"
+  "last_updated": "2026-04-10T15:38:19.819037"
 }

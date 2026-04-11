@@ -989,7 +989,37 @@
       "russian": "Пусть сядет, позже расцветёт.",
       "category": "Patience",
       "generated_at": "2026-04-11T17:51:45.945770"
+    },
+    {
+      "english": "Your smile, a sunbeam.",
+      "russian": "Твоя улыбка, луч солнца.",
+      "category": "Love",
+      "generated_at": "2026-04-11T20:00:45.243907"
+    },
+    {
+      "english": "Our love, a mighty oak.",
+      "russian": "Наша любовь, могучий дуб.",
+      "category": "Love",
+      "generated_at": "2026-04-11T20:00:45.243917"
+    },
+    {
+      "english": "You, moonlight on snow.",
+      "russian": "Ты, луна на снегу.",
+      "category": "Love",
+      "generated_at": "2026-04-11T20:00:45.243919"
+    },
+    {
+      "english": "Heart's whisper, shared journey.",
+      "russian": "Шепот сердца, общий путь.",
+      "category": "Love",
+      "generated_at": "2026-04-11T20:00:45.243920"
+    },
+    {
+      "english": "Joy blooms, inside.",
+      "russian": "Радость цветет, внутри.",
+      "category": "Love",
+      "generated_at": "2026-04-11T20:00:45.243921"
     }
   ],
-  "last_updated": "2026-04-11T17:51:45.945772"
+  "last_updated": "2026-04-11T20:00:45.243923"
 }

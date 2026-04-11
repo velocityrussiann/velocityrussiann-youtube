@@ -929,7 +929,37 @@
       "russian": "Процесс идёт, мягко.",
       "category": "Patience",
       "generated_at": "2026-04-11T05:44:00.115142"
+    },
+    {
+      "english": "Ocean wide, voice deep.",
+      "russian": "Океан широк, голос глубок.",
+      "category": "Mindfulness",
+      "generated_at": "2026-04-11T14:59:15.392472"
+    },
+    {
+      "english": "Forest grows, root down.",
+      "russian": "Лес растёт, корни внизу.",
+      "category": "Mindfulness",
+      "generated_at": "2026-04-11T14:59:15.392482"
+    },
+    {
+      "english": "Mountain stands, mind still.",
+      "russian": "Гора стоит, разум спокоен.",
+      "category": "Mindfulness",
+      "generated_at": "2026-04-11T14:59:15.392483"
+    },
+    {
+      "english": "River flows, feeling pure.",
+      "russian": "Река течёт, чувство чисто.",
+      "category": "Mindfulness",
+      "generated_at": "2026-04-11T14:59:15.392485"
+    },
+    {
+      "english": "Sky is open, breathe light.",
+      "russian": "Небо открыто, дыши светом.",
+      "category": "Mindfulness",
+      "generated_at": "2026-04-11T14:59:15.392486"
     }
   ],
-  "last_updated": "2026-04-11T05:44:00.115144"
+  "last_updated": "2026-04-11T14:59:15.392487"
 }

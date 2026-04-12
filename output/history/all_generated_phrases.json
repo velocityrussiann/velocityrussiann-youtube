@@ -1169,7 +1169,37 @@
       "russian": "Поддержка крепнет, тихо хваля.",
       "category": "Friendship",
       "generated_at": "2026-04-12T20:05:21.014385"
+    },
+    {
+      "english": "Act now, your power grows.",
+      "russian": "Действуй сейчас, сила множится.",
+      "category": "Strength",
+      "generated_at": "2026-04-12T23:55:51.241870"
+    },
+    {
+      "english": "Learn today, speak true.",
+      "russian": "Учись сегодня, говори смело.",
+      "category": "Strength",
+      "generated_at": "2026-04-12T23:55:51.241878"
+    },
+    {
+      "english": "Push boundaries; a new path.",
+      "russian": "Ломай границы; новый путь.",
+      "category": "Strength",
+      "generated_at": "2026-04-12T23:55:51.241880"
+    },
+    {
+      "english": "Speak clearly, be heard.",
+      "russian": "Говори чётко, будь услышан.",
+      "category": "Strength",
+      "generated_at": "2026-04-12T23:55:51.241881"
+    },
+    {
+      "english": "Embrace challenges, find strength.",
+      "russian": "Прими вызов, обрети мощь.",
+      "category": "Strength",
+      "generated_at": "2026-04-12T23:55:51.241883"
     }
   ],
-  "last_updated": "2026-04-12T20:05:21.014387"
+  "last_updated": "2026-04-12T23:55:51.241884"
 }

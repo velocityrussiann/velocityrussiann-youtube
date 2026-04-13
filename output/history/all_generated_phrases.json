@@ -1229,7 +1229,37 @@
       "russian": "Отпусти напряжение, прими покой.",
       "category": "Balance",
       "generated_at": "2026-04-13T07:30:13.684737"
+    },
+    {
+      "english": "Act now, learn always.",
+      "russian": "Действуй сейчас, учись всёгда.",
+      "category": "Strength",
+      "generated_at": "2026-04-13T16:46:54.104225"
+    },
+    {
+      "english": "Speak truth, build power.",
+      "russian": "Говори правду, крепи силу.",
+      "category": "Strength",
+      "generated_at": "2026-04-13T16:46:54.104236"
+    },
+    {
+      "english": "Push boundaries, win moments.",
+      "russian": "Тугой пределы, победи моменты.",
+      "category": "Strength",
+      "generated_at": "2026-04-13T16:46:54.104237"
+    },
+    {
+      "english": "Challenge thought, grow wisdom.",
+      "russian": "Брось вызов мысли, расти мудрость.",
+      "category": "Strength",
+      "generated_at": "2026-04-13T16:46:54.104239"
+    },
+    {
+      "english": "Embrace change, find speed.",
+      "russian": "Прими перемены, найди скорость.",
+      "category": "Strength",
+      "generated_at": "2026-04-13T16:46:54.104240"
     }
   ],
-  "last_updated": "2026-04-13T07:30:13.684739"
+  "last_updated": "2026-04-13T16:46:54.104242"
 }

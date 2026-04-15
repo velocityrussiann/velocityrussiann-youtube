@@ -1469,7 +1469,37 @@
       "russian": "Сиявь чисто, как роса.",
       "category": "Happiness",
       "generated_at": "2026-04-14T21:39:16.067248"
+    },
+    {
+      "english": "Speak softly, rise above.",
+      "russian": "Говори тихо, возвышайся.",
+      "category": "Mindfulness",
+      "generated_at": "2026-04-15T00:09:36.727974"
+    },
+    {
+      "english": "Listen deep, learn more.",
+      "russian": "Слушай глубоко, узнавай больше.",
+      "category": "Mindfulness",
+      "generated_at": "2026-04-15T00:09:36.727981"
+    },
+    {
+      "english": "Write one word, then next.",
+      "russian": "Напиши одно слово, потом следующее.",
+      "category": "Mindfulness",
+      "generated_at": "2026-04-15T00:09:36.727983"
+    },
+    {
+      "english": "Focus mind, open door.",
+      "russian": "Сосредоточься, открой дверь.",
+      "category": "Mindfulness",
+      "generated_at": "2026-04-15T00:09:36.727984"
+    },
+    {
+      "english": "Breathe in peace, speak truth.",
+      "russian": "",
+      "category": "Mindfulness",
+      "generated_at": "2026-04-15T00:09:36.727985"
     }
   ],
-  "last_updated": "2026-04-14T21:39:16.067250"
+  "last_updated": "2026-04-15T00:09:36.727987"
 }

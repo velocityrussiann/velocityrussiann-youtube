@@ -1559,7 +1559,37 @@
       "russian": "Конец дня, с доброй мыслью.",
       "category": "Hope",
       "generated_at": "2026-04-15T16:41:10.562612"
+    },
+    {
+      "english": "Today's word, tomorrow's story.",
+      "russian": "Слово дня, история завтра.",
+      "category": "Inner Peace",
+      "generated_at": "2026-07-24T07:18:06.651688"
+    },
+    {
+      "english": "Learn a line, feel brighter.",
+      "russian": "Учи строку, чувствуй свет.",
+      "category": "Inner Peace",
+      "generated_at": "2026-07-24T07:18:06.651700"
+    },
+    {
+      "english": "New skill found.",
+      "russian": "Новый навык найден.",
+      "category": "Inner Peace",
+      "generated_at": "2026-07-24T07:18:06.651701"
+    },
+    {
+      "english": "Progress whispers, listen close.",
+      "russian": "Прогресс шепчет, слушай тихо.",
+      "category": "Inner Peace",
+      "generated_at": "2026-07-24T07:18:06.651703"
+    },
+    {
+      "english": "My Russian, growing daily.",
+      "russian": "Мой русский, растет каждый день.",
+      "category": "Inner Peace",
+      "generated_at": "2026-07-24T07:18:06.651704"
     }
   ],
-  "last_updated": "2026-04-15T16:41:10.562614"
+  "last_updated": "2026-07-24T07:18:06.651705"
 }

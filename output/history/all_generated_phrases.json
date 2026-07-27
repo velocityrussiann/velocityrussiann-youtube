@@ -1739,7 +1739,37 @@
       "russian": "Раскрой своё собственное раскрытие.",
       "category": "Growth",
       "generated_at": "2026-07-27T15:42:12.002473"
+    },
+    {
+      "english": "Unfold the quiet bloom.",
+      "russian": "Раскрой тихий цветок.",
+      "category": "Patience",
+      "generated_at": "2026-07-27T17:39:09.036033"
+    },
+    {
+      "english": "Trace the still line.",
+      "russian": "Проведи спокойную линию.",
+      "category": "Patience",
+      "generated_at": "2026-07-27T17:39:09.036044"
+    },
+    {
+      "english": "Wait for the exhale.",
+      "russian": "Дождись выдоха.",
+      "category": "Patience",
+      "generated_at": "2026-07-27T17:39:09.036046"
+    },
+    {
+      "english": "The world turns in slow time.",
+      "russian": "Мир кружится в медленном времени.",
+      "category": "Patience",
+      "generated_at": "2026-07-27T17:39:09.036048"
+    },
+    {
+      "english": "Listen to the held breath.",
+      "russian": "Прислушайся к задержке дыхания.",
+      "category": "Patience",
+      "generated_at": "2026-07-27T17:39:09.036049"
     }
   ],
-  "last_updated": "2026-07-27T15:42:12.002475"
+  "last_updated": "2026-07-27T17:39:09.036051"
 }

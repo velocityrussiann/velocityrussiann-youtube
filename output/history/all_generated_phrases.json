@@ -1979,7 +1979,37 @@
       "russian": "Берегите внимание, решительно",
       "category": "Positive Life",
       "generated_at": "2026-11-03T20:06:41.622640"
+    },
+    {
+      "english": "Hold hope close, breathe",
+      "russian": "Держи надежду рядом, дыши",
+      "category": "Hope",
+      "generated_at": "2026-11-03T21:27:57.962588"
+    },
+    {
+      "english": "Even silence can heal",
+      "russian": "Даже тишина лечит",
+      "category": "Hope",
+      "generated_at": "2026-11-03T21:27:57.962601"
+    },
+    {
+      "english": "We’ll find light, quietly",
+      "russian": "Мы найдем свет, тихо",
+      "category": "Hope",
+      "generated_at": "2026-11-03T21:27:57.962603"
+    },
+    {
+      "english": "Let your heart soften",
+      "russian": "Пусть сердце смягчится",
+      "category": "Hope",
+      "generated_at": "2026-11-03T21:27:57.962604"
+    },
+    {
+      "english": "Tomorrow can be kinder",
+      "russian": "Завтра может быть добрее",
+      "category": "Hope",
+      "generated_at": "2026-11-03T21:27:57.962605"
     }
   ],
-  "last_updated": "2026-11-03T20:06:41.622642"
+  "last_updated": "2026-11-03T21:27:57.962607"
 }

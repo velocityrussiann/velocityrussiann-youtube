@@ -1919,7 +1919,37 @@
       "russian": "Ровный горизонт.",
       "category": "Strength",
       "generated_at": "2026-08-08T22:36:17.275997"
+    },
+    {
+      "english": "Breathe first, act anyway",
+      "russian": "Вдохни, а действуй всё равно",
+      "category": "Courage",
+      "generated_at": "2026-11-03T07:31:55.304133"
+    },
+    {
+      "english": "Fear speaks, you choose",
+      "russian": "Страх говорит, ты выбираешь",
+      "category": "Courage",
+      "generated_at": "2026-11-03T07:31:55.304145"
+    },
+    {
+      "english": "Send the message, then breathe",
+      "russian": "Отправь сообщение, потом вдохни",
+      "category": "Courage",
+      "generated_at": "2026-11-03T07:31:55.304146"
+    },
+    {
+      "english": "Silence hurts, you stay",
+      "russian": "Тишина ранит, ты держись",
+      "category": "Courage",
+      "generated_at": "2026-11-03T07:31:55.304148"
+    },
+    {
+      "english": "Stand up, even shaking",
+      "russian": "Встань, даже дрожа",
+      "category": "Courage",
+      "generated_at": "2026-11-03T07:31:55.304149"
     }
   ],
-  "last_updated": "2026-08-08T22:36:17.275999"
+  "last_updated": "2026-11-03T07:31:55.304151"
 }

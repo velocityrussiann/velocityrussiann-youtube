@@ -2099,7 +2099,37 @@
       "russian": "Я завершаю, даже неровно",
       "category": "Perseverance",
       "generated_at": "2026-11-04T07:13:09.620138"
+    },
+    {
+      "english": "Pause, let noise dissolve",
+      "russian": "Пауза, пусть шум растворится",
+      "category": "Inner Peace",
+      "generated_at": "2026-11-04T20:17:21.181823"
+    },
+    {
+      "english": "Choose silence, then move",
+      "russian": "Выберите тишину, и действуйте",
+      "category": "Inner Peace",
+      "generated_at": "2026-11-04T20:17:21.181833"
+    },
+    {
+      "english": "Hold the breath, release ego",
+      "russian": "Держите дыхание, отпустите эго",
+      "category": "Inner Peace",
+      "generated_at": "2026-11-04T20:17:21.181834"
+    },
+    {
+      "english": "Calm first, answers later",
+      "russian": "Спокойствие раньше, ответы позже",
+      "category": "Inner Peace",
+      "generated_at": "2026-11-04T20:17:21.181847"
+    },
+    {
+      "english": "Let worry speak, then quit",
+      "russian": "Пусть тревога говорит, и всё",
+      "category": "Inner Peace",
+      "generated_at": "2026-11-04T20:17:21.181848"
     }
   ],
-  "last_updated": "2026-11-04T07:13:09.620140"
+  "last_updated": "2026-11-04T20:17:21.181849"
 }

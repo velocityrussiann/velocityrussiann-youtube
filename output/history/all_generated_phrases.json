@@ -2129,7 +2129,42 @@
       "russian": "Пусть тревога говорит, и всё",
       "category": "Inner Peace",
       "generated_at": "2026-11-04T20:17:21.181848"
+    },
+    {
+      "english": "Hello, nice to meet you.",
+      "russian": "Привет, приятно познакомиться.",
+      "transliteration": "",
+      "category": "Greetings",
+      "generated_at": "2026-11-18T08:55:14.494616"
+    },
+    {
+      "english": "Thank you very much.",
+      "russian": "Большое спасибо.",
+      "transliteration": "",
+      "category": "Greetings",
+      "generated_at": "2026-11-18T08:55:14.494629"
+    },
+    {
+      "english": "Good morning, have a great day.",
+      "russian": "Доброе утро, хорошего дня.",
+      "transliteration": "",
+      "category": "Greetings",
+      "generated_at": "2026-11-18T08:55:14.494631"
+    },
+    {
+      "english": "I love learning new languages.",
+      "russian": "Я люблю учить новые языки.",
+      "transliteration": "",
+      "category": "Greetings",
+      "generated_at": "2026-11-18T08:55:14.494633"
+    },
+    {
+      "english": "Never give up on your dreams.",
+      "russian": "Никогда не отказывайся от своих мечтаний.",
+      "transliteration": "",
+      "category": "Greetings",
+      "generated_at": "2026-11-18T08:55:14.494634"
     }
   ],
-  "last_updated": "2026-11-04T20:17:21.181849"
+  "last_updated": "2026-11-18T08:55:14.494637"
 }

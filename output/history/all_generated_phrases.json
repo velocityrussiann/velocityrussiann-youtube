@@ -2199,7 +2199,42 @@
       "transliteration": "",
       "category": "Growth",
       "generated_at": "2026-11-18T21:43:22.303326"
+    },
+    {
+      "english": "What time is it please.",
+      "russian": "Который час, пожалуйста.",
+      "transliteration": "",
+      "category": "Shopping",
+      "generated_at": "2026-11-19T21:58:55.892951"
+    },
+    {
+      "english": "Where is the train station.",
+      "russian": "Где железнодорожный вокзал.",
+      "transliteration": "",
+      "category": "Shopping",
+      "generated_at": "2026-11-19T21:58:55.892964"
+    },
+    {
+      "english": "How much does this cost.",
+      "russian": "Сколько это стоит.",
+      "transliteration": "",
+      "category": "Shopping",
+      "generated_at": "2026-11-19T21:58:55.892966"
+    },
+    {
+      "english": "Can you help me please.",
+      "russian": "Можете мне помочь, пожалуйста.",
+      "transliteration": "",
+      "category": "Shopping",
+      "generated_at": "2026-11-19T21:58:55.892970"
+    },
+    {
+      "english": "I would like a coffee please.",
+      "russian": "Я хотел бы кофе, пожалуйста.",
+      "transliteration": "",
+      "category": "Shopping",
+      "generated_at": "2026-11-19T21:58:55.892972"
     }
   ],
-  "last_updated": "2026-11-18T21:43:22.303329"
+  "last_updated": "2026-11-19T21:58:55.892975"
 }

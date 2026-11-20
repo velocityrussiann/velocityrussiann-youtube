@@ -2234,7 +2234,42 @@
       "transliteration": "",
       "category": "Shopping",
       "generated_at": "2026-11-19T21:58:55.892972"
+    },
+    {
+      "english": "The food is delicious today.",
+      "russian": "Еда сегодня очень вкусная.",
+      "transliteration": "",
+      "category": "Time",
+      "generated_at": "2026-11-20T21:41:07.466708"
+    },
+    {
+      "english": "Have a wonderful weekend.",
+      "russian": "Хороших выходных.",
+      "transliteration": "",
+      "category": "Time",
+      "generated_at": "2026-11-20T21:41:07.466724"
+    },
+    {
+      "english": "Take care of yourself.",
+      "russian": "Береги себя.",
+      "transliteration": "",
+      "category": "Time",
+      "generated_at": "2026-11-20T21:41:07.466725"
+    },
+    {
+      "english": "See you tomorrow my friend.",
+      "russian": "До завтра, мой друг.",
+      "transliteration": "",
+      "category": "Time",
+      "generated_at": "2026-11-20T21:41:07.466726"
+    },
+    {
+      "english": "The weather is beautiful outside.",
+      "russian": "На улице прекрасная погода.",
+      "transliteration": "",
+      "category": "Time",
+      "generated_at": "2026-11-20T21:41:07.466727"
     }
   ],
-  "last_updated": "2026-11-19T21:58:55.892975"
+  "last_updated": "2026-11-20T21:41:07.466728"
 }
